@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    padding: 10px;
+}
+
+.world {
+    background: rgb(4, 4, 12);
+    height: 80px;
+    position: relative;
+    padding: 25px;
+    margin-top: 10px;
+    border-radius: 4px;
+}
+
+.hello {
+    top: 50px;
+    left: 700px;
+    font-size: 22px;
+    color: rgb(80, 227, 194);
+}
+
+.bold {
+    font-weight: 800;
+}
+
+.dark {
+    color: rgb(4, 4, 12);
+}
+
+.red {
+    color: red;
+}
+
+.bg-green {
+    background-color: rgb(80, 227, 194);
+}
+
+
+/*# sourceMappingURL=/solution.06a359a0.css.map */
