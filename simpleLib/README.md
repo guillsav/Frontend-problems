@@ -1,6 +1,6 @@
 # SimpleLib
 
-Implement a class `SimpleLib` in JavaScript that will add and remove classes on HTML elements.
+Implement a class `SimpleLib` in Javascript that will add and remove classes on HTML elements.
 
 ## Example:
 
